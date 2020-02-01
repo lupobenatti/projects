@@ -1,7 +1,7 @@
-# ESADE_ArtificialIntelligence_FinalExam
+# ESADE Artificial Intelligence FinalExam
 Final exam for our AI Class at ESADE Business School
 
-# What's in it?
+# Topics Covered
 A comprehensive test that covers topics from data cleansing, clustering, data visualisation, and several ML tree ensemble algorithms used for classification, including Decision Forest, Extra Trees, and XGBoost. 
 
 #Data Sets Used
